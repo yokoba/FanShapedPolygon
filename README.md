@@ -101,4 +101,4 @@ pip install simplekml
 
 ## Author
 
-[Nightsorrow](https://github.com/NightSorrow)
+[yokoban](https://github.com/NightSorrow)
